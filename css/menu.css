@@ -1,0 +1,22 @@
+nav{
+    background-color: #313030;
+}
+nav menu{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav menu a{
+    color: white;
+    text-decoration: none;
+    padding: 40px 25px 30px;
+    display: inline-block;
+    font-size: 15px;
+}
+nav menu a:hover{
+    background-color: #ff3f40;
+}
